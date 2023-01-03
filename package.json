@@ -1,0 +1,10 @@
+{
+  "name": "ecommerce-product-page-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "iredox",
+  "license": "MIT",
+  "scripts": {
+    "sass-watch": "sass styles/style.scss:styles/style.css --watch"
+  }
+}
